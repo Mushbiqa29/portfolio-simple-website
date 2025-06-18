@@ -9,7 +9,7 @@ A stunning and creative 2-page portfolio website built using HTML and CSS. It in
 
 🔗 View Live Site
 
-> Replace the link with your actual GitHub Pages link if deployed.
+>  https://mushbiqa29.github.io/portfolio-simple-website/
 
 
 
